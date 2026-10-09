@@ -1,0 +1,5 @@
+:HL["/eleanor-recruit-demo/_next/static/chunks/1pal243w8tiba.css","style"]
+:HL["/eleanor-recruit-demo/_next/static/chunks/3m0r-c-i5ezns.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"GbaBqm0ckRCSA7dVPejKF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
